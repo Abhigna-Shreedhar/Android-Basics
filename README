@@ -1,0 +1,9 @@
+This is the github repository for android projects for beginners.
+
+These projects are from the Udacity Android Basics Nanodegree program, including:
+- [Android Basics: User Interface]
+  - `HelloWorld/` - an extremely simple static one-page app for learning about the most basic views in Android.
+  - `BlackForestClub/` - a simple static one-page XML app which displays information about a hypothetical club.
+- [Android Basics: User Input]
+  - `JustJava/` - exercise from the course.
+  - `CourtCounter/` - a simple app which counts up a team's basketball score.

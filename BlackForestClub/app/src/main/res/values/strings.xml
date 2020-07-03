@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Black Forest Club</string>
+    <string name="address">13, Dark Street, Stuttgart, Germany</string>
+    <string name="meetuplink"><a href="https://www.meetup.com/BlackForest-Go-Nerds/">Black Forest Nerds Meetup Group</a></string>
+</resources>
